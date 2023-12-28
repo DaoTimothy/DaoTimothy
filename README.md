@@ -20,8 +20,6 @@ Hi there! My name is Timothy Dao, and I'm a second-year Computer Science student
 - **Tech Stack:** Java, Java Swing
 
 ## Skills
-
-List your technical skills here. This could include programming languages, frameworks, tools, and any other relevant skills.
 ### Languages
 - Python
 - Java
