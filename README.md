@@ -1,7 +1,7 @@
 # Welcome to My Profile!
 ## About Me
 
-Greetings! 👋 I'm Timothy Dao, a second-year Computer Science student with a focus on Cybersecurity at Carleton University. Eager to contribute my skills and enthusiasm for technology in a dynamic and collaborative environment.
+Greetings! 👋 I'm Timothy Dao, a third-year Computer Science student with a focus on Cybersecurity at Carleton University. Eager to contribute my skills and enthusiasm for technology in a dynamic and collaborative environment.
 
 ### 🎓 **Education:**
 Currently pursuing a Bachelor of Computer Science with Honors Stream at Carleton University. Achieving a stellar 12.0/12.0 GPA (A+) in my second year. Expected graduation in April 2027.
